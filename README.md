@@ -3,16 +3,7 @@
 Je suis étudiant en cybersécurité / réseaux. J’aime les projets concrets (SOC, Cloud Security, Threat Hunting, GRC…).
 👉 Voici une sélection de mes projets et ressources.
 
----
-
-## ⚠️ Projects Gestion de Vulnérabilités
-- 🔹 [Vulnerability Management Program Implementation](https://github.com/TON_USER/TON_REPO)
-- 🔹 [STIG Implementations (PowerShell)](https://github.com/TON_USER/TON_REPO)
-
----
-
 ## 🕵️ Threat Hunting & Security Operations
-- 🔸 [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/TON_USER/TON_REPO)
 - 🔸 [SOC Big Data Pipeline (Kafka + Spark + ELK)](https://github.com/TON_USER/TON_REPO)
 
 ---
